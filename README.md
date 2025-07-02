@@ -5,3 +5,5 @@
 實際遊戲畫面
 
 ![image](https://github.com/user-attachments/assets/6a8aa68a-9890-4c7d-8a3d-50b276b1e496)
+
+![image](https://github.com/user-attachments/assets/96f040d6-a7cf-4b83-8270-a63c42acb507)
